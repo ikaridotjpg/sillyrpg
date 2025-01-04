@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"flags":[16,1552,1560,1552,1551,1551,1536,1536,1551,1551,1551,1551,1551,1551],"mode":1,"name":"outside","note":"","tilesetNames":["","base","","","","campground deco","","",""]},
+{"id":1,"flags":[16,1552,1560,1552,1551,1551,1536,1536,1551,1551,1551,1551,1551,1551,null,null,1551,1552,1560,1552,null,null,null,null,null,1551,1551,1551,null,null,null,null,null,1552,1560,1552,null,null,null,null,null,1551,1551,1551],"mode":1,"name":"outside","note":"","tilesetNames":["","base","","","","campground deco","","",""]},
 {"id":2,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
 {"id":3,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
 {"id":4,"flags":[16],"mode":1,"name":"","note":"","tilesetNames":["","","","","","","","",""]},
