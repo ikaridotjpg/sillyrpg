@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"area1","order":1,"parentId":0,"scrollX":1119,"scrollY":484.5},
-{"id":2,"expanded":true,"name":"femtboss","order":2,"parentId":1,"scrollX":813,"scrollY":487.5},
-{"id":3,"expanded":false,"name":"soldierhut","order":4,"parentId":1,"scrollX":813,"scrollY":487.5},
-{"id":4,"expanded":false,"name":"magshop","order":3,"parentId":1,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"area1","order":1,"parentId":0,"scrollX":1084,"scrollY":650},
+{"id":2,"expanded":true,"name":"femtboss","order":2,"parentId":1,"scrollX":356,"scrollY":268.6666666666667},
+{"id":3,"expanded":false,"name":"soldierhut","order":4,"parentId":1,"scrollX":356,"scrollY":359.3333333333333},
+{"id":4,"expanded":false,"name":"magshop","order":3,"parentId":1,"scrollX":356,"scrollY":359.3333333333333}
 ]
